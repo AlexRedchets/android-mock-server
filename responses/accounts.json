@@ -1,0 +1,424 @@
+{
+  "data": {
+    "accounts": [
+      {
+        "key": "IQuyPtU_76jAduQLNnJ3faePaoxeYhYP9trwpnHxe78=",
+        "account_status": "APPR",
+        "display_name": "Business Account",
+        "masked_account_number": "0013",
+        "account_number": "54800013",
+        "business_line": "ITRADE",
+        "display_type": "Cash",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 283488.51,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 283488.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 345.54,
+            "currency": "USD"
+          }
+        ]
+      },
+      {
+        "key": "iWkZ9ETRnouWnYBmpASIrVduC-bKu8rhr9HKxf3gxL4=",
+        "account_status": "APPR",
+        "masked_account_number": "0025",
+        "display_name": "Testing",
+        "account_number": "54800025",
+        "business_line": "ITRADE",
+        "display_type": "Cash",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 178098.2,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 7564.34,
+            "currency": "CAD"
+          },
+          {
+            "value": 734.67,
+            "currency": "USD"
+          },
+          {
+            "value": 23647.86,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "NrjT8DvwYNWu3lJjUBDvw3TKqIkSHo3FNO3IfP3nH4Y=",
+        "account_status": "APPR",
+        "masked_account_number": "0070",
+        "display_name": "Testing",
+        "account_number": "54800070",
+        "business_line": "ITRADE",
+        "display_type": "Cash",
+        "registered_flag": true,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 103477.77,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 4567468.51,
+            "currency": "CAD"
+          }
+        ]
+      },
+      {
+        "key": "b6L3skfjzJ7d7KLGvbUapZKympPt94Cdde_LWw72cno=",
+        "account_status": "APPR",
+        "masked_account_number": "3262",
+        "account_number": "54803262",
+        "business_line": "ITRADE",
+        "display_type": "Cash",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 17649779.67,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 642.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 75634.54,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "D0FMJFA3XKLlQ0Uhs3f71Sc0v_JWmYfpIvDPyOJ8mME=",
+        "account_status": "TEMP",
+        "masked_account_number": "0013",
+        "account_number": "54800013",
+        "business_line": "ITRADE",
+        "display_type": "Margin",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 93755.99,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 4567468.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 1234.54,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "L0AlS0004oOT8NSEtNrZFJ1KnyfCKRWJdmS4ie96JPk=",
+        "account_status": "APPR",
+        "masked_account_number": "0038",
+        "account_number": "54800038",
+        "business_line": "ITRADE",
+        "display_type": "Margin",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 127729.2,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 23462.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 12.54,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "2V_4RZdEaDK3a338E8KTN3_8OHVrb4ee2YueEkQfUHA=",
+        "account_status": "APPR",
+        "masked_account_number": "0039",
+        "account_number": "54800039",
+        "business_line": "ITRADE",
+        "display_type": "Margin",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 2527007.27,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 124.51,
+            "currency": "CAD"
+          }
+        ]
+      },
+      {
+        "key": "y_IH5hqWJTQNwnTQlYNH4zvL8bFC23Rp8HdF8sX9odg=",
+        "account_status": "APPR",
+        "masked_account_number": "9684",
+        "account_number": "54800070",
+        "business_line": "ITRADE",
+        "display_type": "Margin",
+        "registered_flag": true,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 27193508.29,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 2354235.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 34622.54,
+            "currency": "USD"
+          }
+        ]
+      },
+      {
+        "key": "r_C2cvmeo2LRe3UUPNed7U54qdX633cRH1Wjub7dIow=",
+        "account_status": "PEND",
+        "masked_account_number": "3262",
+        "account_number": "54803262",
+        "business_line": "ITRADE",
+        "display_type": "Margin",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 10000,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 56783.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 1242.54,
+            "currency": "USD"
+          },
+          {
+            "value": 56834.54,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "_ZY9gLy3cgO0YFLU57Gta40bvCIi3hdSuRghCGI_iZg=",
+        "account_status": "APPR",
+        "masked_account_number": "5652",
+        "account_number": "54815652",
+        "business_line": "ITRADE",
+        "display_type": "Margin",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 1459.37,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 345435.51,
+            "currency": "USD"
+          },
+          {
+            "value": 23567.54,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "f58mXdvTJfKrKmyiYIaAQGGc1omhGGF1RdiIyP8Q4jI=",
+        "account_status": "APPR",
+        "masked_account_number": "9999",
+        "account_number": "55599999",
+        "business_line": "ITRADE",
+        "display_type": "Margin",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 2673406594.33,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 9886.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 3544.54,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "OkJsw1OLKBXYG45VpJ5sfEz1E2smkBJbCxLmgO4facc=",
+        "account_status": "APPR",
+        "masked_account_number": "0038",
+        "account_number": "54800038",
+        "business_line": "ITRADE",
+        "display_type": "Margin Short",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 0,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 235.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 457652.54,
+            "currency": "USD"
+          },
+          {
+            "value": 13246.54,
+            "currency": "USD"
+          }
+        ]
+      },
+      {
+        "key": "Q1qBqpSJktKMbgOjb7CxEchenGLllKBxjcvmj_JNmHQ=",
+        "account_status": "APPR",
+        "masked_account_number": "0070",
+        "account_number": "54800070",
+        "business_line": "ITRADE",
+        "display_type": "Margin Short",
+        "registered_flag": true,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 26740000,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 2345245.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 2465246.54,
+            "currency": "USD"
+          }
+        ]
+      },
+      {
+        "key": "6_TaAzAF0aJSHF0F4A1QDee6ODGITRt-FPnRyLmpQcQ=",
+        "account_status": "APPR",
+        "masked_account_number": "5652",
+        "account_number": "54815652",
+        "business_line": "ITRADE",
+        "display_type": "Margin Short",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 0,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 12345.54,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "05B_F6CIeXJmQrTim-SGgIYo4bC7hmvpxeR0jSBitag=",
+        "account_status": "APPR",
+        "masked_account_number": "9999",
+        "account_number": "55599999",
+        "business_line": "ITRADE",
+        "display_type": "Margin Short",
+        "registered_flag": false,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 2674000000,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 1241.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 1235463.54,
+            "currency": "USD"
+          }
+        ]
+      },
+      {
+        "key": "hBf41dqGEEcP7fgy2J4ZBIiKHbo0AlnSOsvjJ4VbKeU=",
+        "account_status": "APPR",
+        "masked_account_number": "0542",
+        "account_number": "49600542",
+        "business_line": "ITRADE",
+        "display_type": "Spousal RRSP",
+        "registered_flag": true,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 1078942.13,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 2452.51,
+            "currency": "CAD"
+          },
+          {
+            "value": 235.54,
+            "currency": "EUR"
+          }
+        ]
+      },
+      {
+        "key": "r9Tee1YonEQ-zlSIXbRnXB55MlWHg0OSD-R0NHhROvg=",
+        "account_status": "APPR",
+        "masked_account_number": "0001",
+        "account_number": "54700001",
+        "business_line": "ITRADE",
+        "display_type": "TFSA",
+        "registered_flag": true,
+        "is_real_time_quote": false,
+        "balance": {
+          "value": 74196.17,
+          "currency": "CAD"
+        },
+        "currency_balances": [
+          {
+            "value": 45675632468.51,
+            "currency": "USD"
+          },
+          {
+            "value": 1223473.54,
+            "currency": "EUR"
+          }
+        ]
+      }
+    ],
+    "total_balance": {
+      "value": 5423468036.9,
+      "currency": "CAD"
+    },
+    "total": 17,
+    "is_option_trade_allowed": false,
+    "last_updated": "2021-12-01T22:00:19.576Z"
+  }
+}
